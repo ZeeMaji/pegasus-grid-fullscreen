@@ -4,11 +4,10 @@ A fork of the [default theme](https://github.com/mmatyas/pegasus-theme-grid) of 
 
 ![screenshot](.meta/screenshot.webp)
 
-## Installation
-
-Download & extract pegasus-grid-fullscreen folder to pegasus themes folder.
-
+## Download & Installation
 [Download](https://github.com/ZeeMaji/pegasus-grid-fullscreen/archive/refs/heads/main.zip)
+
+Download & extract the pegasus-grid-fullscreen-main folder to pegasus themes folder. Themes folder locations can be found [here.](https://pegasus-frontend.org/docs/user-guide/installing-themes/)
 
 ## Changes from default theme
 1. Removed game info layer and made the game grid layer take up the whole screen. Primarily tested with horizontal steam grid style images but should work with different aspect ratios too.
