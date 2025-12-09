@@ -1,6 +1,6 @@
 # Fullscreen Grid theme for Pegasus
 
-A fork of the [default theme](https://github.com/mmatyas/pegasus-theme-grid) of the [Pegasus]() frontend, but with a fullscreen grid.
+A fork of the [default theme](https://github.com/mmatyas/pegasus-theme-grid) of the [Pegasus](https://pegasus-frontend.org/) frontend, but with a fullscreen grid.
 
 ![screenshot](.meta/screenshot.webp)
 
